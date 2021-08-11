@@ -60,9 +60,9 @@ En caso de ser necesario adjunte archivos como parte de apoyo para la descripci�
 ## Validar de forma online la disponibilidad de documentación :mag: :open_book:
 Para validar de forma online la disponibilidad completa de documentación y detalle técnico de todo el catálogo en el portal de *IBM Cloud*, siga los pasos que se muestran a continuación:
 
-1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Documentos/Docs``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga la ventana.
+1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Documentos/Docs``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga una nueva ventana.
 
-2. 
+2. Un vez se encuentre dentro de la ventana que contiene la documentación online (<a href="https://cloud.ibm.com/docs"> IBM Cloud Docs</a>), puede consultar información en la barra de navegación o si desea puede acceder a la pestaña ```All Product Docs``` y filtrar la documentación por categorías.
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/docs.gif"></p>
