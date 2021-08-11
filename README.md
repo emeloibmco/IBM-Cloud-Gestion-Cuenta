@@ -17,11 +17,11 @@
 ## Proceso para acceder y generar un caso de soporte técnico :hammer_and_wrench:
 Para acceder y generar un caso de soporte técnico en el portal de *IBM Cloud* realice lo siguiente:
 
-<br />
-
 1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Soporte/Support``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga la ventana.
 
-2.   
+2. Navegue en la ventana hasta que llegue a la sección ```¿No encuentra la ayuda que busca?/Can't find the help you're looking for?``` y de click en el botón ```Crear un caso +/Create a case +```.
+
+3. 
 
 <br />
 
