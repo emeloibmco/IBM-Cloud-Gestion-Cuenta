@@ -11,6 +11,7 @@
 <br />
 
 ## Pre-Requisitos :bookmark_tabs:
+* Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud </a>.
 <br />
 
 ## Proceso para acceder y generar un caso de soporte técnico :hammer_and_wrench:
