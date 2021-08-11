@@ -29,7 +29,7 @@ Para generar estos permisos realice lo siguiente:
 
 4. Seleccione la pestaña ```Políticas de acceso/Access policies``` y de click en el botón ```Asignar acceso +/ Assign access +```.
 
-5. Establezca los permisos de ```Account management``` de los usuarios de la cuenta como se muestra en la siguiente imagen:
+5. Establezca los permisos de ```Account management``` de los usuarios de la cuenta como se muestra en la siguiente imagen y seleccione el servicio sobre el cual quiere asignar acceso.
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/Permisos.PNG"></p>
@@ -97,6 +97,12 @@ Para generar de forma online un reporte de los costos asociados a todos los serv
 <br />
 
 ## Referencias :pushpin:
+* <a href="https://cloud.ibm.com/docs">IBM Cloud Docs</a>.
+* <a href="https://cloud.ibm.com/docs/account?topic=account-account_setup">Best practices for organizing resources and assigning access</a>.
+* <a href="https://cloud.ibm.com/docs/account?topic=account-account-services&interface=ui">Assigning access to account management services</a>.
+* <a href="https://cloud.ibm.com/docs/get-support?topic=get-support-open-case">Creating support cases</a>.
+* <a href="https://cloud.ibm.com/docs/get-support?topic=get-support-managing-support-cases">Managing your support cases</a>.
+* <a href="https://cloud.ibm.com/docs/billing-usage?topic=billing-usage-billusagefaqs">FAQs for billing and usage</a>.
 <br />
 
 ## Autores :black_nib:
