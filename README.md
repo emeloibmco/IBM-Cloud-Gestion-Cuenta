@@ -84,6 +84,16 @@ Para validar de forma online la disponibilidad completa de documentación y deta
 <br />
 
 ## Generar reporte de costos :bar_chart: :dollar:
+Para generar de forma online un reporte de los costos asociados a todos los servicios consumidos en la cuenta en el portal de *IBM Cloud*, siga estos pasos:
+
+1. Dentro de su cuenta de *IBM Cloud* seleccione la pestaña ```Gestionar/Manage``` y de la lista desplegada de click en ```Facturación y uso/ Billing and usage```. A continuacón se mostrará un resumen de uso (Gráfica descriptiva con el gasto por meses) e información acerca de la facturación.
+
+2.  Si quiere ver el detalle de los servicios consumidos por mes, en el menú desplegado en el lado izquierdo de la pantalla de click en ```Uso/Usage``` y obtendrá la visualización de información sobre uso y facturación de los servicios de la plataforma.
+  
+3. Para generar un reporte de los costos asociados, en ```Uso/Usage``` dirijase a la parte superior derecha, de click en ```Exportar CSV/Export CSV``` y seleccione ```Resumen/Summary```. Por último espere mientras se genera el resumen. 
+<br />
+
+<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/billing.gif"></p>
 <br />
 
 ## Referencias :pushpin:
