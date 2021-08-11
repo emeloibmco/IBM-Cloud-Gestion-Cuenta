@@ -13,13 +13,27 @@
 
 ## Pre-Requisitos :bookmark_tabs:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud </a>.
+* Contar con un grupo de acceso.
 <br />
 
 ## Permisos de cuenta :gear: :heavy_check_mark:
-Permisos
+Es importante que los usuarios de la cuenta en donde se va a implementar el [Proceso para acceder y generar un caso de soporte técnico](#Proceso-para-acceder-y-generar-un-caso-de-soporte-técnico-hammer_and_wrench) y [Generar reporte de costos](#Generar-reporte-de-costos-bar_chart-dollar), cuenten con permisos de ```Account management```.
+
+Para generar estos permisos realice lo siguiente:
+
+1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Gestionar/Manage``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga la ventana.
+
+2. Seleccione la opción ```Acceso (IAM)/Access (IAM)```.
+
+3. De click en la pestaña ```Grupos de acceso/Access groups``` y seleccione el grupo de acceso en el que está trabajando.
+
+4. Seleccione la pestaña ```Políticas de acceso/Access policies``` y de click en el botón ```Asignar acceso +/ Assign access +```.
+
+5. Establezca los permisos de ```Account management``` de los usuarios de la cuenta como se muestra en la siguiente imagen:
+<br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/Permisos.PNG"></p>
-<br />
+<br /> 
 
 ## Proceso para acceder y generar un caso de soporte técnico :hammer_and_wrench:
 Para acceder y generar un caso de soporte técnico en el portal de *IBM Cloud* realice lo siguiente:
@@ -52,6 +66,7 @@ Información adicional:
 <br />
 
 En caso de ser necesario adjunte archivos como parte de apoyo para la descripción de su problema. También puede agregar a otros usuarios de la cuenta para que puedan estar pendientes del caso de soporte. De click en el botón ```Siguiente/Next``` y cree su caso de soporte.
+
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/ticket.gif"></p>
