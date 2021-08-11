@@ -98,7 +98,6 @@ Para generar de forma online un reporte de los costos asociados a todos los serv
 
 ## Referencias :pushpin:
 * <a href="https://cloud.ibm.com/docs">IBM Cloud Docs</a>.
-* <a href="https://cloud.ibm.com/docs/account?topic=account-account_setup">Best practices for organizing resources and assigning access</a>.
 * <a href="https://cloud.ibm.com/docs/account?topic=account-account-services&interface=ui">Assigning access to account management services</a>.
 * <a href="https://cloud.ibm.com/docs/get-support?topic=get-support-open-case">Creating support cases</a>.
 * <a href="https://cloud.ibm.com/docs/get-support?topic=get-support-managing-support-cases">Managing your support cases</a>.
