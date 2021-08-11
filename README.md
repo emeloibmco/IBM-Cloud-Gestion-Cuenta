@@ -21,9 +21,9 @@ Es importante que los usuarios de la cuenta en donde se va a implementar el [Pro
 
 Para generar estos permisos realice lo siguiente:
 
-1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Gestionar/Manage``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga la ventana.
+1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Gestionar/Manage``` (ubicada en la barra negra de la parte superior del portal).
 
-2. Seleccione la opción ```Acceso (IAM)/Access (IAM)```.
+2. Seleccione la opción ```Acceso (IAM)/Access (IAM)``` y espere mientras carga la ventana.
 
 3. De click en la pestaña ```Grupos de acceso/Access groups``` y seleccione el grupo de acceso en el que está trabajando.
 
