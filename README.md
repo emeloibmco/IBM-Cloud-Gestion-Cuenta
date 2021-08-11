@@ -16,10 +16,10 @@
 
 ## Proceso para acceder y generar un caso de soporte técnico :hammer_and_wrench:
 Para acceder y generar un caso de soporte técnico en el portal de *IBM Cloud* realice lo siguiente:
+
 <br />
 
-1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Soporte/Support``` y espere mientras carga la ventana.
-<br />
+1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Soporte/Support``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga la ventana.
 
 2.   
 
@@ -29,6 +29,9 @@ Para acceder y generar un caso de soporte técnico en el portal de *IBM Cloud* r
 <br />
 
 ## Generar reporte de costos :bar_chart: :dollar:
+Permisos
+
+<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/Permisos.PNG"></p>
 <br />
 
 ## Referencias :mag:
