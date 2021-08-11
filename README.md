@@ -13,7 +13,7 @@
 
 ## Pre-Requisitos :bookmark_tabs:
 * Contar con una cuenta en <a href="https://cloud.ibm.com/"> IBM Cloud </a>.
-* Contar con un grupo de acceso en su cuenta (tener en cuenta para aplicar permisos).
+* Contar con un grupo de acceso (tener en cuenta para aplicar permisos).
 <br />
 
 ## Permisos de cuenta :gear: :heavy_check_mark:
