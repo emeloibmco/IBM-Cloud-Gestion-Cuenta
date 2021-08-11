@@ -5,9 +5,9 @@
 1. [Pre-Requisitos](#Pre-Requisitos-bookmark_tabs)
 2. [Permisos de cuenta](#Permisos-de-cuenta-gear-heavy_check_mark)
 3. [Proceso para acceder y generar un caso de soporte técnico](#Proceso-para-acceder-y-generar-un-caso-de-soporte-técnico-hammer_and_wrench)
-4. [Validar de forma online la disponibilidad de documentación](#Validar-de-forma-online-la-disponibilidad-de-documentación-books-open_book)
+4. [Validar de forma online la disponibilidad de documentación](#Validar-de-forma-online-la-disponibilidad-de-documentación-mag-open_book)
 5. [Generar reporte de costos](#Generar-reporte-de-costos-bar_chart-dollar)
-6. [Referencias](#Referencias-mag)
+6. [Referencias](#Referencias-pushpin)
 7. [Autores](#Autores-black_nib)
 <br />
 
@@ -57,7 +57,7 @@ En caso de ser necesario adjunte archivos como parte de apoyo para la descripci�
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/ticket.gif"></p>
 <br />
 
-## Validar de forma online la disponibilidad de documentación :books: :open_book:
+## Validar de forma online la disponibilidad de documentación :mag: :open_book:
 Para validar de forma online la disponibilidad completa de documentación y detalle técnico de todo el catálogo en el portal de *IBM Cloud*, siga los pasos que se muestran a continuación:
 
 1. Dentro de su cuenta en *IBM Cloud* de click en la pestaña ```Documentos/Docs``` (ubicada en la barra negra de la parte superior del portal) y espere mientras carga la ventana.
@@ -71,7 +71,7 @@ Para validar de forma online la disponibilidad completa de documentación y deta
 ## Generar reporte de costos :bar_chart: :dollar:
 <br />
 
-## Referencias :mag:
+## Referencias :pushpin:
 <br />
 
 ## Autores :black_nib:
