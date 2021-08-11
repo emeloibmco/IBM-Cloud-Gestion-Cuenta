@@ -1,4 +1,8 @@
 # IBM Cloud - Gestión Cuenta ☁💻
+Su cuenta de *IBM Cloud*® incluye muchos componentes y sistemas que interactúan para la gestión de recursos, usuarios y accesos. Como propietario de la cuenta o administrador de un servicio de administración de cuentas, puede otorgar acceso a los usuarios para invitarlos a la cuenta, realizar un seguimiento de la facturación y el uso y trabajar con casos de soporte en caso de tener problemas con el portal, un servicios específico o alguna herramienta del mismos. Adicionlamente, los usuarios pueden utilizar otras herramientas que permiten realizar acciones como consultar y acceder a la documentación completa y detalle técnico de todo el catálogo del portal. 
+
+La presente guía se enfoca en indicar los pasos requeridos para asignar permisos a los usuarios con el fin de permitirles generar casos de soporte y consultar información sobre facturación y uso. Adicionalmente, puede encontrar el procedimiento para obtener información sobre todos los productos que ofrece *IBM Cloud*. 
+
 <br />
 
 ## Índice  📰
