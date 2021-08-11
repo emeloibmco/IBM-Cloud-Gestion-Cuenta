@@ -28,9 +28,9 @@ Para acceder y generar un caso de soporte técnico en el portal de *IBM Cloud* r
 5. Indique un asunto que describa de forma breve su problema y posteriormente en el campo ```Descripción/Description``` explique de forma detallada con datos como:
 <br />
 
-a. Describa detalladamente el problema que tiene.
-b .¿Qué esperaba que sucediera? ¿Qué ha sucedido? ¿Qué le gustaría que cambiara?
-c. ¿Con qué navegador trabaja?
+* Describa detalladamente el problema que tiene.
+* ¿Qué esperaba que sucediera? ¿Qué ha sucedido? ¿Qué le gustaría que cambiara?
+* ¿Con qué navegador trabaja?
 <br />
 
 Pasos para reproducir el problema:
@@ -44,13 +44,17 @@ Información adicional:
 * Notas
 <br />
 
-6. En caso de ser necesario adjunto archivos como parte de apoyo para la descrición de su problema, asi como otros usuarios que puedan estar pendientes al caso de soporte. De click en el botón ```Siguiente/Next``` y cree su caso de soporte.
+En caso de ser necesario adjunte archivos como parte de apoyo para la descripción de su problema. También puede agregar a otros usuarios de la cuenta para que puedan estar pendientes del caso de soporte. De click en el botón ```Siguiente/Next``` y cree su caso de soporte.
 <br />
 
 <p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/ticket.gif"></p>
 <br />
 
 ## Validar de forma online la disponibilidad de documentación :books:
+Para validar de forma online la disponibilidad completa de documentación y detalle técnico de todo el catálogo en el portal de *IBM Cloud*, siga los pasos que se muestran a continuación:
+<br />
+
+<p align="center"><img width="700" src="https://github.com/emeloibmco/IBM-Cloud-Gestion-Cuenta/blob/main/Im%C3%A1genes/docs.gif"></p>
 <br />
 
 ## Generar reporte de costos :bar_chart: :dollar:
